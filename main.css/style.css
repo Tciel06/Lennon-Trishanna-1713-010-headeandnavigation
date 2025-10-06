@@ -1,0 +1,13 @@
+.hero-section .container {
+    padding-top: 100px;
+  }
+
+
+  .hero-section {
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: span;
+  }
+
+  
